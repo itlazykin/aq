@@ -1,0 +1,1 @@
++ [Основы алгоритмов и структур данных](src/main/java/com/example/AlgoAndDataStructure.md#AlgoAndDataStructure)
