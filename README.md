@@ -3,4 +3,5 @@
 + [ImmutableClass](src/main/java/com/example/Immutable.md#ImmutableClass)
 + [AutoboxingUnboxing](src/main/java/com/example/AutoboxingUnboxing.md#AutoboxingUnboxing)
 + [Exceptions](src/main/java/com/example/Exceptions.md#Exceptions) StaticDynamicBinding
-+ [Статическое и динамическое связывание](src/main/java/com/example/StaticDynamicBinding.md#StaticDynamicBinding)
++ [Статическое и динамическое связывание](src/main/java/com/example/StaticDynamicBinding.md#StaticDynamicBinding) CloningObjects
++ [Клонирование объектов](src/main/java/com/example/CloningObjects.md#CloningObjects)
