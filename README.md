@@ -2,3 +2,4 @@
 + [ООП](src/main/java/com/example/OOP.md#OOP)
 + [ImmutableClass](src/main/java/com/example/Immutable.md#ImmutableClass)
 + [AutoboxingUnboxing](src/main/java/com/example/AutoboxingUnboxing.md#AutoboxingUnboxing)
++ [Exceptions](src/main/java/com/example/Exceptions.md#Exceptions)
