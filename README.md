@@ -5,3 +5,4 @@
 + [Exceptions](src/main/java/com/example/Exceptions.md#Exceptions) StaticDynamicBinding
 + [Статическое и динамическое связывание](src/main/java/com/example/StaticDynamicBinding.md#StaticDynamicBinding) CloningObjects
 + [Клонирование объектов](src/main/java/com/example/CloningObjects.md#CloningObjects)
++ [Generics](src/main/java/com/example/Generics.md#Generics)
