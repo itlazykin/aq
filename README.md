@@ -6,3 +6,9 @@
 + [Статическое и динамическое связывание](src/main/java/com/example/StaticDynamicBinding.md#StaticDynamicBinding) CloningObjects
 + [Клонирование объектов](src/main/java/com/example/CloningObjects.md#CloningObjects)
 + [Generics](src/main/java/com/example/Generics.md#Generics)
++ [Collections](src/main/java/com/example/Collections.md#Collections)
++ [HashMap ThreeMap](src/main/java/com/example/HashMapThreeMap.md#HashMapThreeMap)
++ [Immutable Collections](src/main/java/com/example/ImmutableCollections.md#ImmutableCollections)
++ [Concurrent Collections](src/main/java/com/example/ConcurrentCollections.md#ConcurrentCollections)
++ [Функциональные интерфейсы и лямбда выражения](src/main/java/com/example/ConcurrentCollections.md#ConcurrentCollections)
++ [Stream API](src/main/java/com/example/Stream.md#Stream)
