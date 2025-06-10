@@ -9,8 +9,8 @@
 + [Collections](src/main/java/com/example/Collections.md#Collections)
 + [HashMap ThreeMap](src/main/java/com/example/HashMapThreeMap.md#HashMapThreeMap)
 + [Immutable Collections](src/main/java/com/example/ImmutableCollections.md#ImmutableCollections)
-+ [Concurrent Collections](src/main/java/com/example/FULambda.md#FULambda)
-+ [Функциональные интерфейсы и лямбда выражения](src/main/java/com/example/ConcurrentCollections.md#ConcurrentCollections)
++ [Concurrent Collections](src/main/java/com/example/ConcurrentCollections.md#ConcurrentCollections)
++ [Функциональные интерфейсы и лямбда выражения](src/main/java/com/example/FULambda.md#FULambda) 
 + [Stream API](src/main/java/com/example/Stream.md#Stream)
 ___
 + [Многопоточность](src/main/java/com/example/Multithreading.md#Multithreading)
