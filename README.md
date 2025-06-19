@@ -21,3 +21,6 @@ ___
 + [SQL](src/main/java/com/example/SQL.md#SQL)
 + [No SQL](src/main/java/com/example/NoSQL.md#NoSQL)
 + [JDBC](src/main/java/com/example/JDBC.md#JDBC)
+___
++ [Jpa + Hibernate](src/main/java/com/example/JpaHibernate.md#JpaHibernate)
++ [JSP](src/main/java/com/example/JSP.md#JSP)
