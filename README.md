@@ -26,3 +26,7 @@ ___
 + [JSP](src/main/java/com/example/JSP.md#JSP)
 + [Hibernate 2.0](src/main/java/com/example/Hiber2.md#Hiber2)
 + [Jpa 2.0](src/main/java/com/example/JPA2.md#JPA2)
+___
++ [WebService](src/main/java/com/example/WebService.md#WebService)
++ [JMS](src/main/java/com/example/JMS.md#JMS)
++ [Testing](src/main/java/com/example/Testing.md#Testing)
