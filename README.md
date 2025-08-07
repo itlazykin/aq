@@ -37,3 +37,6 @@ ___
 + [Spring: Boot, Security, Cloud](src/main/java/com/example/SpringBootSecurityCloud.md#SpringBootSecurityCloud)
 + [Docker + K8S](src/main/java/com/example/DockerCuber.md#DockerCuber)
 + [CI](src/main/java/com/example/CI.md#CI)
+___
++ [Архитектура](src/main/java/com/example/Micro.md#Micro)
++ [VSC Git](src/main/java/com/example/Git.md#Git)
